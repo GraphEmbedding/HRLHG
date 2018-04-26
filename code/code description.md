@@ -7,7 +7,7 @@
 ## node embedding
 	input: graph information, distribution matrix
 	function: generate node sequence according to distribution matrix, and generate node embedding via word2vec
-	output: node embedding(dimension=300)
+	output: node embedding(dimension=128)
 
 ## ranking
 	input: node embedding, wfid.dat(query), acmid.dat(candidate)
