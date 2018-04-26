@@ -18,7 +18,7 @@ acmidcnt = 0
 Dimension = 128
 
 def parse_args():
-    parser = argparse.ArgumentParser(description="Run node2vec.")
+    parser = argparse.ArgumentParser(description="Run ranking.")
     parser.add_argument('--fold', nargs='?', default='fold1/', help='Input path')
     parser.add_argument('--output', nargs='?', default='even_fold1_rank_wl20.txt', help='Output path')
     parser.add_argument('--emb', nargs='?', default='even_fold1_emb_wl20.out', help='Node embedding result.')
