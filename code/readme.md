@@ -12,7 +12,7 @@ example:
 ## node embedding
 Generate node sequence according to distribution matrix, and generate node embedding via word2vec.
 
-input: graph information, distribution matrix      
+input: graph information(graph.dat, node.dat, edge.dat), distribution matrix      
 output: node embedding(dimension=128)     
 example:
 ```
