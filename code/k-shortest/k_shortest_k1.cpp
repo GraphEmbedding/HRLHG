@@ -1,3 +1,7 @@
+/*
+Reference implementation of HRLHG.
+Author: Yue Yin
+*/
 #pragma warning(disable : 4996)
 #include<cstdio>
 #include<math.h>
