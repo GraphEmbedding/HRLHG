@@ -1,6 +1,10 @@
 # HRLHG
 This is the implementation of the Hierarchical Representation Learning on Heterogeneous Graph(HRLHG) model from paper "Cross-language Citation Recommendation via Hierarchical Representation Learning on Heterogeneous Graph"
 
+
+![](/graphs/1.png)
+
+
 ## Requirements
 numpy    
 networkx    
