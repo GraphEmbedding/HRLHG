@@ -4,7 +4,6 @@ This is the implementation of the Hierarchical Representation Learning on Hetero
 
 ![](/graphs/1.png)
 
-
 ## Requirements
 numpy    
 networkx    
@@ -25,6 +24,12 @@ window-size: 10
 iter: 1   
 
 ## Cite the paper
+```
+Z. Jiang, Y. Yin, L. Gao, Y. Lu, and X. Liu. 
+Cross-language Citation Recommendation via Hierarchical Representation Learning on Heterogeneous Graph.
+In Proceedings of the 41th International ACM SIGIR Conference on Research & Development in Information Retrieval. 
+ACM. 2018.
+```
 ```
 @inproceedings{hrlhg-sigir2018,
   author          = {{Jiang}, Zhuoren and {Yin}, Yue and {Gao}, Liangcai and {Lu}, Yao and {Liu}, Xiaozhong},
