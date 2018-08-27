@@ -19,7 +19,11 @@ node embedding needs 2 days in normal CPU machine with follow settings:
 walk-length: 80   
 dimension: 128   
 num-walks: 10   
-window-size: 10   
+window-size: 10 
+The time complexity can be further reduced, if we parallelize the hierarchical random walk simulations, and execute them asynchronously  
+
+## Vertexes and relations of cross-language heterogeneous graph
+![](/graphs/2.png)
 
 ## Cite the paper
 ```
