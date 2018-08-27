@@ -28,18 +28,19 @@ The time complexity can be further reduced, if we parallelize the hierarchical r
 
 ## Cite the paper
 ```
-Z. Jiang, Y. Yin, L. Gao, Y. Lu, and X. Liu. 
-Cross-language Citation Recommendation via Hierarchical Representation Learning on Heterogeneous Graph.
-In Proceedings of the 41th International ACM SIGIR Conference on Research & Development in Information Retrieval. 
-ACM. 2018.
+Zhuoren Jiang, Yue Yin, Liangcai Gao, Yao Lu, and Xiaozhong Liu. 2018. 
+Cross-language Citation Recommendation via Hierarchical Representation Learning on Heterogeneous Graph. 
+In SIGIR ’18: The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, July 8–12, 2018, Ann Arbor, MI, USA. 
+ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3209978.3210032
 ```
 ```
-@inproceedings{hrlhg-sigir2018,
-  author          = {{Jiang}, Zhuoren and {Yin}, Yue and {Gao}, Liangcai and {Lu}, Yao and {Liu}, Xiaozhong},
-  title           = "{Cross-language Citation Recommendation via Hierarchical Representation Learning on Heterogeneous Graph}",
-  booktitle       = {Proceedings of the 41th International ACM SIGIR Conference on Research & Development in Information Retrieval},
-  organization    = {ACM},
-  year            = 2018,
+@inproceedings{jiang2018cross,
+  title={Cross-language Citation Recommendation via Hierarchical Representation Learning on Heterogeneous Graph},
+  author={Jiang, Zhuoren and Yin, Yue and Gao, Liangcai and Lu, Yao and Liu, Xiaozhong},
+  booktitle={The 41st International ACM SIGIR Conference on Research \& Development in Information Retrieval},
+  pages={635--644},
+  year={2018},
+  organization={ACM}
 }
 ```
 
