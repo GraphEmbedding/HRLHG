@@ -23,7 +23,7 @@ window-size: 10
 The time complexity can be further reduced, if we parallelize the hierarchical random walk simulations, and execute them asynchronously  
 
 ## Vertexes and relations of cross-language heterogeneous graph
-![](/graphs/2.png)
+![](/graphs/4.png)
 
 ## Cite the paper
 ```
